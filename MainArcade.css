@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.game-links button {
+    background-color: black;
+    padding: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    color: white;
+}
+
+body {
+    background-image: url(./Img/Arcade\ Pattern2.png);
+}
+
+#name {
+    color: white;
+}
